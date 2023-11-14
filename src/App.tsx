@@ -8,7 +8,8 @@ function App() {
   const todos=[
     new Todo('Learn React'),
     new Todo('Learn Typescript'),
-    new Todo('Learn framer motion')
+    new Todo('Learn framer motion'),
+    new Todo('Learn animation')
   ]
   return (
     <div>
